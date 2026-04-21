@@ -19,3 +19,11 @@ These implementations are written by me.
 - Ensured correct event emission (Transfer, Approval)
 - Contributed via PR to: https://github.com/w3-kit/contracts/evm/token-erc20
 - Detailed Explanation: https://github.com/w3-kit/contracts/evm/token-erc20/.learn.md
+
+## ERC721 NFT+Royalties
+- Built a standard-compliant ERC721 NFT contract
+- Added metadata-URI, Enumerable and Royalties (ERC2981) extensions
+- Implemented core functions: _safemint, setDefaultRoyalty, tokenURI, supportsInterface
+- Ensured event emission on setDefaultRoyalty
+- Contributed via PR to: https://github.com/w3-kit/contracts/evm/nft-erc721
+- Detailed Exmplanation: https://github.com/w3-kit/contracts/evm/nft-erc721/learn.md

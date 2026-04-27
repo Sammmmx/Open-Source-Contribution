@@ -27,3 +27,9 @@ These implementations are written by me.
 - Ensured event emission on setDefaultRoyalty
 - Contributed via PR to: https://github.com/w3-kit/contracts/evm/nft-erc721
 - Detailed Exmplanation: https://github.com/w3-kit/contracts/evm/nft-erc721/learn.md
+
+## ERC1155 Multi-Token
+- Built an Openzeppelin Supported ERC1155 Multi Token Contract
+- Added Roles for DEPLOYER, MINTER, URI_SETTER
+- Implemented core functions: Mint, MintBatch
+- Ensured Input Validation and applied Custom Errors for gas optimization

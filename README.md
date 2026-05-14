@@ -33,3 +33,13 @@ These implementations are written by me.
 - Added Roles for DEPLOYER, MINTER, URI_SETTER
 - Implemented core functions: Mint, MintBatch
 - Ensured Input Validation and applied Custom Errors for gas optimization
+- Contributed via PR to: https://github.com/w3-kit/contracts/tree/main/evm/subscription
+- Detailed Explanation: https://github.com/w3-kit/contracts/blob/main/evm/subscription/.learn.md
+
+## Subscriptions
+- ERC20 token based recurring payments
+- Merchant registration and plan management
+- Subscriber controls — pause, resume, and cancel
+- Manual Renewal
+- Merchant withdrawal logic
+- Hardhat test suite
